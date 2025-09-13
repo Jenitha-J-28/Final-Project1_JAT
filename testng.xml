@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllContactListTests" verbose="1">
+    <test name="FunctionalTests">
+        <classes>
+            <class name="Project1.tests.LoginTest"/>
+            <class name="Project1.tests.RegistrationTest"/>
+            <class name="Project1.tests.AddContactTest"/>
+            <class name="Project1.tests.InputValidationTest"/>
+            <class name="Project1.tests.EditDelContactTest"/>
+            <class name="Project1.tests.TestUI"/>
+            <class name="Project1.tests.SessionNavigationTest"/>
+        </classes>
+    </test>
+</suite>
